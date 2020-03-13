@@ -10,7 +10,7 @@ Just run make to build a dynamic library containing the functions
   <img src="https://imgur.com/ig5F6TX.png" />
 </a>
 
-make tests_run to tests those functions.
+make tests_run to test those functions.
 
 ## Authors
 
